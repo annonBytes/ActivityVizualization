@@ -1,0 +1,26 @@
+
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+
+  rect {
+  fill: steelblue
+}
+
+
+text {
+  font-family: sans-serif;
+  font-size: 1.8em;
+}
+
+
+.axis-label {
+  font-size: 1.8em;
+  fill: #8E8883;
+}
+
+.title {
+  font-size: 2em;
+  fill: #635F5D;
+}
